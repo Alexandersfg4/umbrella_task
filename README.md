@@ -8,7 +8,7 @@ To get started with the project, clone this repository and run `go run cmd/days_
 
 ## Usage
 
-To make a new request, use the following command:
+To make a new request, use the following command(needed any http client):
 
 ```
 http http://127.0.0.1:1223/status
